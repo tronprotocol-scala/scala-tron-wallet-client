@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="docs/img/scala-tron.png">
+  <img src="https://github.com/tronprotocol-scala/scala-tron/blob/develop/docs/img/scala-tron.png?raw=true">
   <br>
   scala-tron-wallet-client
   <br>
